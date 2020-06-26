@@ -1,0 +1,32 @@
+C:\Users\CASPER\Desktop\Veritabanı Proje\AyakkabiEvreni\AyakkabiEvreniDB\AyakkabiEvreniDB\bin\Debug\AyakkabiEvreniDB.exe.config
+C:\Users\CASPER\Desktop\Veritabanı Proje\AyakkabiEvreni\AyakkabiEvreniDB\AyakkabiEvreniDB\bin\Debug\AyakkabiEvreniDB.exe
+C:\Users\CASPER\Desktop\Veritabanı Proje\AyakkabiEvreni\AyakkabiEvreniDB\AyakkabiEvreniDB\bin\Debug\AyakkabiEvreniDB.pdb
+C:\Users\CASPER\Desktop\Veritabanı Proje\AyakkabiEvreni\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\Veritabanı Proje\AyakkabiEvreni\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.Form1.resources
+C:\Users\CASPER\Desktop\Veritabanı Proje\AyakkabiEvreni\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Veritabanı Proje\AyakkabiEvreni\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\Veritabanı Proje\AyakkabiEvreni\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.exe
+C:\Users\CASPER\Desktop\Veritabanı Proje\AyakkabiEvreni\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.pdb
+C:\Users\CASPER\Desktop\Veritabanı Proje\AyakkabiEvreni\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.formMain.resources
+C:\Users\Kader\Desktop\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\bin\Debug\AyakkabiEvreniDB.exe.config
+C:\Users\Kader\Desktop\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\bin\Debug\AyakkabiEvreniDB.exe
+C:\Users\Kader\Desktop\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\bin\Debug\AyakkabiEvreniDB.pdb
+C:\Users\Kader\Desktop\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.csprojAssemblyReference.cache
+C:\Users\Kader\Desktop\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.Form1.resources
+C:\Users\Kader\Desktop\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.formMain.resources
+C:\Users\Kader\Desktop\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.Properties.Resources.resources
+C:\Users\Kader\Desktop\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.csproj.GenerateResource.cache
+C:\Users\Kader\Desktop\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.exe
+C:\Users\Kader\Desktop\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.pdb
+C:\Users\Kader\Desktop\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.csproj.CoreCompileInputs.cache
+C:\Users\Kader\Desktop\VERİTABANI YÖNETİM SİSTEMLERİ\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\bin\Debug\AyakkabiEvreniDB.exe.config
+C:\Users\Kader\Desktop\VERİTABANI YÖNETİM SİSTEMLERİ\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\bin\Debug\AyakkabiEvreniDB.exe
+C:\Users\Kader\Desktop\VERİTABANI YÖNETİM SİSTEMLERİ\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\bin\Debug\AyakkabiEvreniDB.pdb
+C:\Users\Kader\Desktop\VERİTABANI YÖNETİM SİSTEMLERİ\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.csprojAssemblyReference.cache
+C:\Users\Kader\Desktop\VERİTABANI YÖNETİM SİSTEMLERİ\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.Form1.resources
+C:\Users\Kader\Desktop\VERİTABANI YÖNETİM SİSTEMLERİ\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.formMain.resources
+C:\Users\Kader\Desktop\VERİTABANI YÖNETİM SİSTEMLERİ\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.Properties.Resources.resources
+C:\Users\Kader\Desktop\VERİTABANI YÖNETİM SİSTEMLERİ\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.csproj.GenerateResource.cache
+C:\Users\Kader\Desktop\VERİTABANI YÖNETİM SİSTEMLERİ\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.csproj.CoreCompileInputs.cache
+C:\Users\Kader\Desktop\VERİTABANI YÖNETİM SİSTEMLERİ\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.exe
+C:\Users\Kader\Desktop\VERİTABANI YÖNETİM SİSTEMLERİ\AyakkabiEvreniDB-20191216T100346Z-001\AyakkabiEvreniDB\AyakkabiEvreniDB\obj\Debug\AyakkabiEvreniDB.pdb
